@@ -1,0 +1,52 @@
+::ng-deep {
+  .po-input {
+    font-family: Roboto, sans-serif;
+    font-size: 16px;
+    background-color: #fff;
+    border: 2px solid #b6bdbf;
+    border-radius: 5px;
+    height: 34px;
+    width: 80px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+  }
+  .input-content {
+    display: flex;
+    margin-left: 160px;
+  }
+  .po-field-title {
+    font-family: Roboto-Bold, sans-serif;
+    font-size: 14px;
+    text-align: center;
+    color: #8241a4;
+  }
+  .po-button {
+    display: flex;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
+    height: 34px;
+    color: green;
+    cursor: pointer;
+  }
+  .po-button-label {
+    text-align: center;
+    margin-top: 4px;
+  }
+  .operadores {
+    margin-top: 35px;
+    margin-left: 15px;
+  }
+  .titulo {
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+    color: #8241a4;
+  }
+}
+.po-select {
+  width: 130px;
+  margin-top: 22px;
+  margin-left: 20px;
+}
